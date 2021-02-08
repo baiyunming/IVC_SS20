@@ -1,1 +1,1 @@
-#TUM Image and Video Compression Lab
+# TUM Image and Video Compression Lab
